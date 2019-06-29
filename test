@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>BlackBox Trading</title>
+		<style>
+			body {
+				background-color: white;
+				color: white;
+				font-family: monospace;
+			}
+			.container {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 100%;
+				width: 100%;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<img src="ss.png" alt="BlackBox Trading" />
+			
+		</div>
+	</body>
+</html>
